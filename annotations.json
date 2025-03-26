@@ -1,0 +1,12 @@
+[
+    {
+        "image": "img1.png",
+        "confident": "Confident",
+        "confidence_percentage": 80.0
+    },
+    {
+        "image": "img2.png",
+        "confident": "Confident",
+        "confidence_percentage": 65.0
+    }
+]
